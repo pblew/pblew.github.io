@@ -1,0 +1,10 @@
+/*!
+ * 
+ * [Dojo](https://dojo.io/)
+ * Copyright [JS Foundation](https://js.foundation/) & contributors
+ * [New BSD license](https://github.com/dojo/meta/blob/master/LICENSE)
+ * All rights reserved
+ * 
+ */
+(window.dojoWebpackJsonpweb_settlers=window.dojoWebpackJsonpweb_settlers||[]).push([["src/widgets/mapPanel/MapPanel"],{284:function(e,o,n){e.exports={" _key":"web-settlers/MapPanel",root:"MapPanel-m__root__2249f481p3l"}},287:function(e,o,n){"use strict";n.r(o);var r=n(20),t=n(28),i=n(56),a=n(34),l=n(35),c=n(43),v=n(33);const s=Object(v.a)(async({path:e,payload:o})=>{const{mapId:n}=o,r=await Object(c.b)(n);return[Object(l.c)(e("currentMap"),r)]}),p=Object(a.b)("loadMap",[s]);var u=n(284);const d=Object(r.a)({store:i.a}).properties();o.default=d(function({middleware:{store:e},properties:o}){const{mapId:n,onGLReady:i}=o(),{executor:a,get:l,path:c}=e,v=l(c("currentMap"));return v&&v.id==n?Object(r.g)("div",{classes:[u.root]},Object(r.g)(t.a,{fragmentSource:"#version 300 es\n\nprecision mediump float;\nprecision mediump int;\n\nflat in vec4 vColour;\nin vec3 vNormal;\nuniform vec3 reverseLightDirection;\nout vec4 pixelColour;\n\nvoid main(void) {\n    vec3 normal = normalize(vNormal);\n    float light = dot(normal, reverseLightDirection);\n    // return the provided pixel colour\n    pixelColour = vColour;\n    pixelColour.rgb *= light;\n}\n",vertexSource:"#version 300 es\n\nprecision mediump float;\nprecision mediump int;\n\nin vec3 vertexPos;\nin vec4 vertexColour;\nin vec3 vertexNormal;\nuniform mat4 modelViewMatrix;\nuniform mat4 projectionMatrix;\nflat out vec4 vColour;\nout vec3 vNormal;\n\nvoid main(void) {\n    // return the transformed and projected vertex value\n    gl_Position = projectionMatrix * modelViewMatrix * vec4(vertexPos, 1.0);\n    // output the vertexColour in vColour\n    vColour = vertexColour;\n    // output the vertexNormal in vNormal\n    vNormal = vertexNormal;\n}\n",data:v,onGLReady:i})):(a(p)({mapId:n}),Object(r.g)("div",{classes:[u.root]},"Loading..."))})}}]);
+//# sourceMappingURL=MapPanel.b77093d143bebe16c044.bundle.js.map
