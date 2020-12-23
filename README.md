@@ -8,11 +8,13 @@ Somewhere safe to land
 
 ## Cube
 
-Just a spinning cube!
+Just a simple spinning cube!
 
 ## TestBed
 
-Currently, an experiment in rendering a complex mesh using triangle strips with degenerate triangles
+Could be anything! Whatever I'm experimenting with at the moment will appear here.
+
+Currently, rendering complex objects from [`.obj`](http://learnwebgl.brown37.net/modelers/obj_data_format.html) files.
 
 ## Maps
 
@@ -24,3 +26,6 @@ Renders Settlers 2 maps. When the map panel has focus, the following keys work:
 * &lt;space&gt; stop camera moving
 * &lt;home&gt; return camera to start position
 
+Additionally, you can hold down the right mouse button and use the mouse to move around the map.
+
+Zooming with the mouse wheel works too.

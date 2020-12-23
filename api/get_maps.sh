@@ -1,8 +1,12 @@
 #!/bin/bash
 
 rm -f maps.json
+rm -f maps.json.gz
+rm -f models.json
+rm -f models.json.gz
 rm -rf map/*
 rm -rf preview/*
+rm -rf model/*
 
 echo -n Retrieving map list...
 curl -H "Accept: application/json" -s -S http://localhost:8080/websettlers/data/maps.json | jq . > maps.json
@@ -18,3 +22,18 @@ do
 	gzip -k9 map/${map}.json
   echo Done
 done
+
+echo -n Retrieving model list...
+curl -H "Accept: application/json" -s -S http://localhost:8080/websettlers/data/models.json | jq . > models.json
+gzip -k9 models.json
+MODELS=$(grep '"' models.json | cut -d '"' -f 2)
+echo Done
+
+for model in ${MODELS}
+do
+        echo -n Retrieving model ${model}...
+        curl -H "Accept: application/json" -s -S http://localhost:8080/websettlers/data/model/${model}.json -o model/${model}.json
+        gzip -k9 model/${model}.json
+  echo Done
+done
+
