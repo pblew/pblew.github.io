@@ -1,10 +1,14 @@
 [
+  "birch.obj",
+  "cherry.obj",
   "cube.obj",
-  "first_tree.obj",
+  "cypress.obj",
+  "fir.obj",
   "hq.obj",
-  "low_poly_tree.obj",
-  "low_poly_tree_2.obj",
   "LowPolyRock.obj",
-  "LowPolyTree.obj",
-  "palm01.obj"
+  "oak.obj",
+  "palm01.obj",
+  "palm02.obj",
+  "pine.obj",
+  "pineapple.obj"
 ]
