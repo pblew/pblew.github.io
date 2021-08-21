@@ -7,7 +7,7 @@ find . -name '*.bundle.css' -exec sed -i '/\/*# sourceMappingURL=/d' {} \;
 sed -i '/\.map":/d' manifest.json
 echo Done
 
-echo -n Compressing resources...
-find . -name '*.bundle.js' -exec gzip -k9 {} \;
-find . -name '*.bundle.css' -exec gzip -k9 {} \;
-echo Done
+#echo -n Compressing resources...
+#find . -name '*.bundle.js' -exec gzip -k9 {} \;
+#find . -name '*.bundle.css' -exec gzip -k9 {} \;
+#echo Done
