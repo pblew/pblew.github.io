@@ -6,4 +6,4 @@
  * All rights reserved
  * 
  */
-(window.dojoWebpackJsonpweb_settlers=window.dojoWebpackJsonpweb_settlers||[]).push([[7],{369:function(e,o,s){"use strict";s.r(o),o.default={close:"关闭"}}}]);
+(window.dojoWebpackJsonpweb_settlers=window.dojoWebpackJsonpweb_settlers||[]).push([[4],{364:function(e,s,o){"use strict";o.r(s),s.default={requiredMessage:"請選擇一個值。"}}}]);
