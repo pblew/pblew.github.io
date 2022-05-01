@@ -570,6 +570,26 @@
     "worldType": "GREENLAND"
   },
   {
+    "author": "Paul",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "ONE.SWD",
+    "name": "One",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Vesa Piittinen",
+    "group": "WORLDS",
+    "height": 192,
+    "id": "Pine_Apple_Trouble.SWD",
+    "name": "Pine Apple Trouble",
+    "numPlayers": 1,
+    "width": 192,
+    "worldType": "GREENLAND"
+  },
+  {
     "author": "Vesa Piittinen",
     "group": "WORLDS",
     "height": 32,

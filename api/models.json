@@ -1,26 +1,98 @@
 [
-  "birch.obj",
-  "cherry.obj",
-  "closed_gateway.obj",
-  "cube.obj",
-  "cypress.obj",
-  "fir.obj",
-  "granite1_1.obj",
-  "granite1_2.obj",
-  "granite1_3.obj",
-  "granite1_4.obj",
-  "granite1_5.obj",
-  "granite1_6.obj",
-  "granite2_1.obj",
-  "granite2_2.obj",
-  "granite2_3.obj",
-  "granite2_4.obj",
-  "granite2_5.obj",
-  "granite2_6.obj",
-  "hq.obj",
-  "oak.obj",
-  "palm01.obj",
-  "palm02.obj",
-  "pine.obj",
-  "pineapple.obj"
+  {
+    "id": "birch.obj",
+    "name": "Birch"
+  },
+  {
+    "id": "cherry.obj",
+    "name": "Cherry"
+  },
+  {
+    "id": "closed_gateway.obj",
+    "name": "Closed Gateway"
+  },
+  {
+    "id": "cube.obj",
+    "name": "Cube"
+  },
+  {
+    "id": "cypress.obj",
+    "name": "Cypress"
+  },
+  {
+    "id": "fir.obj",
+    "name": "Fir"
+  },
+  {
+    "id": "granite1_1.obj",
+    "name": "Granite1 1"
+  },
+  {
+    "id": "granite1_2.obj",
+    "name": "Granite1 2"
+  },
+  {
+    "id": "granite1_3.obj",
+    "name": "Granite1 3"
+  },
+  {
+    "id": "granite1_4.obj",
+    "name": "Granite1 4"
+  },
+  {
+    "id": "granite1_5.obj",
+    "name": "Granite1 5"
+  },
+  {
+    "id": "granite1_6.obj",
+    "name": "Granite1 6"
+  },
+  {
+    "id": "granite2_1.obj",
+    "name": "Granite2 1"
+  },
+  {
+    "id": "granite2_2.obj",
+    "name": "Granite2 2"
+  },
+  {
+    "id": "granite2_3.obj",
+    "name": "Granite2 3"
+  },
+  {
+    "id": "granite2_4.obj",
+    "name": "Granite2 4"
+  },
+  {
+    "id": "granite2_5.obj",
+    "name": "Granite2 5"
+  },
+  {
+    "id": "granite2_6.obj",
+    "name": "Granite2 6"
+  },
+  {
+    "id": "hq.obj",
+    "name": "Hq"
+  },
+  {
+    "id": "oak.obj",
+    "name": "Oak"
+  },
+  {
+    "id": "palm01.obj",
+    "name": "Palm01"
+  },
+  {
+    "id": "palm02.obj",
+    "name": "Palm02"
+  },
+  {
+    "id": "pine.obj",
+    "name": "Pine"
+  },
+  {
+    "id": "pineapple.obj",
+    "name": "Pineapple"
+  }
 ]
