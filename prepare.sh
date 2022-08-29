@@ -8,8 +8,6 @@
 #echo Done
 
 echo -n Compressing assets...
-cd assets || exit
 find . -name '*.js' -exec gzip -k9 {} \;
 find . -name '*.css' -exec gzip -k9 {} \;
-cd ..
 echo Done
