@@ -94,5 +94,9 @@
   {
     "id": "pineapple.obj",
     "name": "Pineapple"
+  },
+  {
+    "id": "windmill.obj",
+    "name": "Windmill"
   }
 ]
