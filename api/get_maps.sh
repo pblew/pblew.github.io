@@ -31,8 +31,8 @@ echo Done
 
 for model in ${MODELS}
 do
-        echo -n "Retrieving model ${model}..."
-        curl -H "Accept: application/json" -s -S "http://localhost:8080/websettlers/data/model/${model}.json" -o "model/${model}.json"
-        gzip -k9 "model/${model}.json"
+  echo -n "Retrieving model ${model}..."
+  curl -H "Accept: application/json" -s -S "http://localhost:8080/websettlers/data/model/${model}.json" -o "model/${model}.json"
+  gzip -k9 "model/${model}.json"
   echo Done
 done
