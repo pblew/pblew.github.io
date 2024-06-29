@@ -4,6 +4,7 @@ rm -f maps.json
 rm -f maps.json.gz
 rm -f models.json
 rm -f models.json.gz
+rm -rf landscape/*
 rm -rf map/*
 rm -rf preview/*
 rm -rf model/*
@@ -18,6 +19,7 @@ for map in ${MAPS}
 do
 	echo -n "Retrieving map ${map}..."
 	curl -H "Accept: image/png" -s -S "http://localhost:8080/websettlers/data/preview/${map}.png" -o "preview/${map}.png"
+	curl -H "Accept: image/png" -s -S "http://localhost:8080/websettlers/data/landscape/${map}.png" -o "landscape/${map}.png"
 	curl -H "Accept: application/json" -s -S "http://localhost:8080/websettlers/data/map/${map}.json" -o "map/${map}.json"
 	gzip -k9 "map/${map}.json"
   echo Done
