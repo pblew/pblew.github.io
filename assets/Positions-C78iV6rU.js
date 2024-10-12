@@ -1,1 +1,0 @@
-import{F as o,I as r,A as a,H as n,f as l}from"./VTextField-BrNbpgFS.js";class c extends o{position;selectedIndexes;constructor(s){super(s,r.MAT4),this.selectedIndexes=new Array(s).fill(!0),this.position=a()}setPosition(s,e,t,i){n(this.position,l(e,t,i)),this.setItem(s,...this.position)}}export{c as P};
