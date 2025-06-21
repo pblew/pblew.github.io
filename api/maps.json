@@ -630,6 +630,16 @@
     "worldType": "GREENLAND"
   },
   {
+    "author": "Kingston Black",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "VOLCANO.SWD",
+    "name": "Volcano",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
     "author": "Nobody",
     "group": "WORLDS",
     "height": 32,
