@@ -1,1 +1,0 @@
-import{F as i,I as r}from"./Float32Buffer-Dvjm3F74.js";import{A as a,v as n,f}from"./VTextField-BMuBqI08.js";class c extends i{position;selectedIndexes;constructor(s){super(s,r.MAT4),this.selectedIndexes=new Array(s).fill(!0),this.position=a()}setPosition(s,t,e,o){n(this.position,f(t,e,o)),this.setItem(s,...this.position)}}export{c as P};
