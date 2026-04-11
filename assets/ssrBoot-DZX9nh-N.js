@@ -1,0 +1,1 @@
+import{Rr as e,Ur as t,Vr as n,yr as r}from"./store-49XhHsTv.js";function i(){let i=n(!1);return r(()=>{window.requestAnimationFrame(()=>{i.value=!0})}),{ssrBootStyles:t(()=>i.value?void 0:{transition:`none !important`}),isBooted:e(i)}}export{i as t};
