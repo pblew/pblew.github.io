@@ -1,0 +1,662 @@
+[
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 224,
+    "id": "1_EUROPE.WLD",
+    "name": "Europe",
+    "numPlayers": 1,
+    "width": 224,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 208,
+    "id": "2_AFRICA.WLD",
+    "name": "Africa",
+    "numPlayers": 1,
+    "width": 208,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 240,
+    "id": "3_NAMERICA.WLD",
+    "name": "North America",
+    "numPlayers": 1,
+    "width": 208,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 208,
+    "id": "4_SAMERICA.WLD",
+    "name": "South America",
+    "numPlayers": 1,
+    "width": 176,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 64,
+    "id": "5_GREEN.WLD",
+    "name": "Greenland",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 112,
+    "id": "6_AUSTRA.WLD",
+    "name": "Australia",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 112,
+    "id": "7_NASIA.WLD",
+    "name": "North Asia",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 176,
+    "id": "8_SASIA.WLD",
+    "name": "South Asia",
+    "numPlayers": 1,
+    "width": 224,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS2",
+    "height": 80,
+    "id": "9_JAPAN.WLD",
+    "name": "Japan",
+    "numPlayers": 1,
+    "width": 112,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Paul",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "BIGCROSS.SWD",
+    "name": "Big Cross",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Merri'sMapGenerator",
+    "group": "WORLDS",
+    "height": 144,
+    "id": "CCOMPLEX.swd",
+    "name": "Coast Complex",
+    "numPlayers": 1,
+    "width": 176,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "WORLDS",
+    "height": 96,
+    "id": "DEMOV016.SWD",
+    "name": "Demo V016",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "WORLDS",
+    "height": 96,
+    "id": "DEMOV102.SWD",
+    "name": "Demo V102",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "WORLDS",
+    "height": 80,
+    "id": "DEMOV151.SWD",
+    "name": "Demo V151",
+    "numPlayers": 1,
+    "width": 80,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Vesa Piittinen",
+    "group": "WORLDS",
+    "height": 96,
+    "id": "FLOWLAVA.SWD",
+    "name": "Flow of Lava",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Nobody",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "HEXTEST.SWD",
+    "name": "No Name",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 128,
+    "id": "MAP01.WLD",
+    "name": "The Ring",
+    "numPlayers": 1,
+    "width": 112,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 64,
+    "id": "MAP02.WLD",
+    "name": "Thor's Island",
+    "numPlayers": 1,
+    "width": 64,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 128,
+    "id": "MAP03.WLD",
+    "name": "The Pancake",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 112,
+    "id": "MAP04.WLD",
+    "name": "Paradise Island",
+    "numPlayers": 1,
+    "width": 112,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 112,
+    "id": "MAP05.WLD",
+    "name": "Green Meadow",
+    "numPlayers": 1,
+    "width": 112,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 80,
+    "id": "MAP06.WLD",
+    "name": "Cold Times",
+    "numPlayers": 1,
+    "width": 80,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 160,
+    "id": "MAP07.WLD",
+    "name": "Christmas",
+    "numPlayers": 1,
+    "width": 160,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 96,
+    "id": "MAP08.WLD",
+    "name": "Dead Land",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 144,
+    "id": "MAP09.WLD",
+    "name": "Scorpion",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 64,
+    "id": "MAP10.WLD",
+    "name": "Toe to Toe",
+    "numPlayers": 1,
+    "width": 64,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 144,
+    "id": "MAP11.WLD",
+    "name": "The Gathering",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS4",
+    "height": 112,
+    "id": "MAP12.WLD",
+    "name": "Adventure Land",
+    "numPlayers": 1,
+    "width": 112,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 64,
+    "id": "MISS200.WLD",
+    "name": "I - Off we go",
+    "numPlayers": 1,
+    "width": 64,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 96,
+    "id": "MISS201.WLD",
+    "name": "II - Initial contact",
+    "numPlayers": 1,
+    "width": 64,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 128,
+    "id": "MISS202.WLD",
+    "name": "III - The pass",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 128,
+    "id": "MISS203.WLD",
+    "name": "IV - On the high sea",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 128,
+    "id": "MISS204.WLD",
+    "name": "V - In the wasteland",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 128,
+    "id": "MISS205.WLD",
+    "name": "VI - Divided country",
+    "numPlayers": 1,
+    "width": 192,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 128,
+    "id": "MISS206.WLD",
+    "name": "VII - The snake",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 144,
+    "id": "MISS207.WLD",
+    "name": "VIII - Sea routes",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 112,
+    "id": "MISS208.WLD",
+    "name": "IX - The Gray Island",
+    "numPlayers": 1,
+    "width": 160,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS",
+    "height": 128,
+    "id": "MISS209.WLD",
+    "name": "X - The Last Gate",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Vesa Piittinen",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "OBJECTS.SWD",
+    "name": "Objects test",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Nobody",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "OBJECTS2.SWD",
+    "name": "No Name",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 144,
+    "id": "OMAP00.WLD",
+    "name": "Island of Hills",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 112,
+    "id": "OMAP01.WLD",
+    "name": "Battle in the Middle",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 144,
+    "id": "OMAP02.WLD",
+    "name": "Plateau of Dragons",
+    "numPlayers": 1,
+    "width": 160,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 96,
+    "id": "OMAP03.WLD",
+    "name": "The Green Island",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 192,
+    "id": "OMAP04.WLD",
+    "name": "Four Islands",
+    "numPlayers": 1,
+    "width": 224,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 112,
+    "id": "OMAP05.WLD",
+    "name": "Gold Fever!",
+    "numPlayers": 1,
+    "width": 112,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 96,
+    "id": "OMAP06.WLD",
+    "name": "Good old times",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 96,
+    "id": "OMAP07.WLD",
+    "name": "In the Mountains",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 144,
+    "id": "OMAP08.WLD",
+    "name": "The Triangle",
+    "numPlayers": 1,
+    "width": 128,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 128,
+    "id": "OMAP09.WLD",
+    "name": "Tortoise",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 176,
+    "id": "OMAP10.WLD",
+    "name": "The Ditch",
+    "numPlayers": 1,
+    "width": 176,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 176,
+    "id": "OMAP11.WLD",
+    "name": "The Amulet",
+    "numPlayers": 1,
+    "width": 192,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 112,
+    "id": "OMAP12.WLD",
+    "name": "Sea of Lava",
+    "numPlayers": 1,
+    "width": 208,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 128,
+    "id": "OMAP13.WLD",
+    "name": "The Plateau",
+    "numPlayers": 1,
+    "width": 144,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 192,
+    "id": "OMAP14.WLD",
+    "name": "Through the Desert",
+    "numPlayers": 1,
+    "width": 240,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 96,
+    "id": "OMAP15.WLD",
+    "name": "The Oak Forest",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 96,
+    "id": "OMAP16.WLD",
+    "name": "Countryside by a Riv",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Blue Byte",
+    "group": "MAPS3",
+    "height": 96,
+    "id": "OMAP17.WLD",
+    "name": "The Dark Path",
+    "numPlayers": 1,
+    "width": 96,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Paul",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "ONE.SWD",
+    "name": "One",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Vesa Piittinen",
+    "group": "WORLDS",
+    "height": 192,
+    "id": "Pine_Apple_Trouble.SWD",
+    "name": "Pine Apple Trouble",
+    "numPlayers": 1,
+    "width": 192,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Vesa Piittinen",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "TXONTX_0.SWD",
+    "name": "TextureOnTexture",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Vesa Piittinen",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "TXONTX_1.SWD",
+    "name": "TextureOnTexture",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "LAVALAND"
+  },
+  {
+    "author": "Vesa Piittinen",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "TXONTX_2.SWD",
+    "name": "TextureOnTexture",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "WINTERLAND"
+  },
+  {
+    "author": "Merri'sMapGenerator",
+    "group": "WORLDS",
+    "height": 256,
+    "id": "VERYNICE.swd",
+    "name": "Very Nice!",
+    "numPlayers": 2,
+    "width": 256,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Kingston Black",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "VOLCANO.SWD",
+    "name": "Volcano",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  },
+  {
+    "author": "Nobody",
+    "group": "WORLDS",
+    "height": 32,
+    "id": "test.swd",
+    "name": "No Name",
+    "numPlayers": 1,
+    "width": 32,
+    "worldType": "GREENLAND"
+  }
+]

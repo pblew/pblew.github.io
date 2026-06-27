@@ -1,0 +1,102 @@
+[
+  {
+    "id": "birch.obj",
+    "name": "Birch"
+  },
+  {
+    "id": "cherry.obj",
+    "name": "Cherry"
+  },
+  {
+    "id": "closed_gateway.obj",
+    "name": "Closed Gateway"
+  },
+  {
+    "id": "cube.obj",
+    "name": "Cube"
+  },
+  {
+    "id": "cypress.obj",
+    "name": "Cypress"
+  },
+  {
+    "id": "fir.obj",
+    "name": "Fir"
+  },
+  {
+    "id": "granite1_1.obj",
+    "name": "Granite1 1"
+  },
+  {
+    "id": "granite1_2.obj",
+    "name": "Granite1 2"
+  },
+  {
+    "id": "granite1_3.obj",
+    "name": "Granite1 3"
+  },
+  {
+    "id": "granite1_4.obj",
+    "name": "Granite1 4"
+  },
+  {
+    "id": "granite1_5.obj",
+    "name": "Granite1 5"
+  },
+  {
+    "id": "granite1_6.obj",
+    "name": "Granite1 6"
+  },
+  {
+    "id": "granite2_1.obj",
+    "name": "Granite2 1"
+  },
+  {
+    "id": "granite2_2.obj",
+    "name": "Granite2 2"
+  },
+  {
+    "id": "granite2_3.obj",
+    "name": "Granite2 3"
+  },
+  {
+    "id": "granite2_4.obj",
+    "name": "Granite2 4"
+  },
+  {
+    "id": "granite2_5.obj",
+    "name": "Granite2 5"
+  },
+  {
+    "id": "granite2_6.obj",
+    "name": "Granite2 6"
+  },
+  {
+    "id": "hq.obj",
+    "name": "Hq"
+  },
+  {
+    "id": "oak.obj",
+    "name": "Oak"
+  },
+  {
+    "id": "palm_1.obj",
+    "name": "Palm 1"
+  },
+  {
+    "id": "palm_2.obj",
+    "name": "Palm 2"
+  },
+  {
+    "id": "pine.obj",
+    "name": "Pine"
+  },
+  {
+    "id": "pineapple.obj",
+    "name": "Pineapple"
+  },
+  {
+    "id": "windmill.obj",
+    "name": "Windmill"
+  }
+]
